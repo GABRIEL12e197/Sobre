@@ -26,3 +26,6 @@ Web Design
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
 ![GABRIEL12e197](https://github-readme-stats.vercel.app/api?username=seunomedeusuario&show_icons=true&theme=tokyonight)
+
+![Contribuições do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=seunomedeusuario)
+
