@@ -10,6 +10,8 @@ Criação de sistemas de gestão
 Design gráfico
 Web Design
 
+![GIF divertido]([https://miro.medium.com/v2/resize:fit:640/1*Q5_t-R0xRs07wW1Kf8rCSw.gif])
+
 ## Habilidades
 - ⚙️ **Linguagens de Programação**: Python, JavaScript, Java
 - 🛢️ **Banco de Dados**: MySQL, MongoDB
@@ -23,5 +25,4 @@ Web Design
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
-📈 Estatísticas do GitHub
 ![GABRIEL12e197](https://github-readme-stats.vercel.app/api?username=seunomedeusuario&show_icons=true&theme=tokyonight)
