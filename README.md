@@ -36,8 +36,3 @@ Você pode usar quadros e listas para organizar melhor as informações.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
 ![GABRIEL12e197](https://github-readme-stats.vercel.app/api?username=seunomedeusuario&show_icons=true&theme=tokyonight)
-
-///// ![Contribuições do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=GABRIEL12e19)
-
-Você pode usar quadros e listas para organizar melhor as informações.
-
