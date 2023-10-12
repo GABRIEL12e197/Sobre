@@ -3,6 +3,14 @@
 👨‍💻 Sobre mim
 Prazer, sou Guf Developer, criador de jogos no terminal e programador em Python, JavaScript, entre outras linguagens. Atualmente, trabalho em uma empresa onde sou responsável por diversas tarefas, incluindo a criação de sistemas de gestão e software.
 
+```markdown
+| Habilidades      | Ferramentas utilizadas |
+| ----------- | ----------- |
+| Backend    | Node.js, Express.js       |
+| Frontend   | React, Angular        |
+| Databases  | MongoDB, MySQL         |
+```
+
 🌱 Interesses
 
 Desenvolvimento de jogos
@@ -33,9 +41,3 @@ Você pode usar quadros e listas para organizar melhor as informações.
 
 Você pode usar quadros e listas para organizar melhor as informações.
 
-```markdown
-| Habilidades      | Ferramentas utilizadas |
-| ----------- | ----------- |
-| Backend    | Node.js, Express.js       |
-| Frontend   | React, Angular        |
-| Databases  | MongoDB, MySQL         |
