@@ -12,13 +12,6 @@ Web Design
 
 Você pode usar quadros e listas para organizar melhor as informações.
 
-```markdown
-| Habilidades      | Ferramentas utilizadas |
-| ----------- | ----------- |
-| Backend    | Node.js, Express.js       |
-| Frontend   | React, Angular        |
-| Databases  | MongoDB, MySQL         |
-
 ![GIF divertido]([https://miro.medium.com/v2/resize:fit:640/1*Q5_t-R0xRs07wW1Kf8rCSw.gif])
 
 ## Habilidades
@@ -38,3 +31,11 @@ Você pode usar quadros e listas para organizar melhor as informações.
 
 ///// ![Contribuições do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=GABRIEL12e19)
 
+Você pode usar quadros e listas para organizar melhor as informações.
+
+```markdown
+| Habilidades      | Ferramentas utilizadas |
+| ----------- | ----------- |
+| Backend    | Node.js, Express.js       |
+| Frontend   | React, Angular        |
+| Databases  | MongoDB, MySQL         |
