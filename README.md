@@ -1,5 +1,5 @@
 
-# Olá, eu sou [Guf] 👋
+# Olá, eu sou Guf 👋
 👨‍💻 Sobre mim
 Prazer, sou Guf Developer, criador de jogos no terminal e programador em Python, JavaScript, entre outras linguagens. Atualmente, trabalho em uma empresa onde sou responsável por diversas tarefas, incluindo a criação de sistemas de gestão e software.
 
@@ -27,5 +27,5 @@ Web Design
 
 ![GABRIEL12e197](https://github-readme-stats.vercel.app/api?username=seunomedeusuario&show_icons=true&theme=tokyonight)
 
-![Contribuições do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=seunomedeusuario)
+///// ![Contribuições do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=GABRIEL12e19)
 
